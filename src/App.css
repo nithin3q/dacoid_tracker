@@ -1,0 +1,20 @@
+/* App.css */
+.container {
+  display: flex;
+  justify-content: center; /* Center content horizontally */
+}
+
+.left-gray,
+.right-gray {
+  flex: 1; /* Take up remaining space */
+  background-color: #ccc; /* Gray background color */
+}
+
+.page-content {
+  max-width: 400px; /* Adjust maximum width as needed */
+  padding: 20px;
+  position: relative; 
+}
+
+
+
