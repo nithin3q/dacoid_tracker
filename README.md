@@ -1,8 +1,26 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Installation
+1. Clone the repository:
 
-Currently, two official plugins are available:
+```
+git clone https://github.com/nithin3q/dacoid-tracker.git
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Install dependencies:
+Navigate to the project directory:
+```
+cd folder-name
+```
+
+3. Install frontend dependencies:
+
+```
+npm install
+```
+
+3. start the frontend:
+```
+
+npm run dev
+```
