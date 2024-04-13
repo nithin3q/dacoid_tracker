@@ -4,7 +4,7 @@
 1. Clone the repository:
 
 ```
-git clone https://github.com/nithin3q/dacoid-tracker.git
+git clone https://github.com/nithin3q/dacoid_tracker.git
 ```
 
 2. Install dependencies:
